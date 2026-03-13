@@ -1,7 +1,7 @@
 import 'package:args/args.dart';
 
 const String version = '0.0.1';
-//Hello world ostad
+//Hello world ostad pull update
 
 ArgParser buildParser() {
   return ArgParser()
